@@ -1,9 +1,10 @@
-[
+{
+  "data":[
   {
     "id": "1",
     "image": "https://example.com/product1.jpg",
     "productName": "Intel i5",
-    "category": "CPU",
+    "category": "cpu",
     "price": "100",
     "status": "In Stock",
     "rating": "3"
@@ -12,7 +13,7 @@
     "id": "2",
     "image": "https://example.com/product2.jpg",
     "productName": "AMD Ryzen 7",
-    "category": "CPU",
+    "category": "cpu",
     "price": "180",
     "status": "In Stock",
     "rating": "4"
@@ -21,7 +22,7 @@
     "id": "3",
     "image": "https://example.com/product3.jpg",
     "productName": "AMD Ryzen 6",
-    "category": "CPU",
+    "category": "cpu",
     "price": "800",
     "status": "Out of Stock",
     "rating": "5"
@@ -30,7 +31,7 @@
     "id": "4",
     "image": "https://example.com/product4.jpg",
     "productName": "Snapdragon",
-    "category": "CPU",
+    "category": "cpu",
     "price": "120",
     "status": "In Stock",
     "rating": "4.5"
@@ -39,7 +40,7 @@
     "id": "5",
     "image": "https://example.com/gpu1.jpg",
     "productName": "NVIDIA GeForce GTX 1660 Ti",
-    "category": "GPU",
+    "category": "gpu",
     "price": "300",
     "status": "In Stock",
     "rating": "4.5"
@@ -48,7 +49,7 @@
     "id": "6",
     "image": "https://example.com/gpu2.jpg",
     "productName": "AMD Radeon RX 6700 XT",
-    "category": "GPU",
+    "category": "gpu",
     "price": "450",
     "status": "In Stock",
     "rating": "4.7"
@@ -57,7 +58,7 @@
     "id": "7",
     "image": "https://example.com/gpu3.jpg",
     "productName": "NVIDIA GeForce RTX 3070",
-    "category": "GPU",
+    "category": "gpu",
     "price": "600",
     "status": "Out of Stock",
     "rating": "4.9"
@@ -66,7 +67,7 @@
     "id": "8",
     "image": "https://example.com/gpu4.jpg",
     "productName": "AMD Radeon RX 6800 XT",
-    "category": "GPU",
+    "category": "gpu",
     "price": "700",
     "status": "In Stock",
     "rating": "5"
@@ -75,7 +76,7 @@
     "id": "9",
     "image": "https://example.com/motherboard1.jpg",
     "productName": "ASUS ROG Strix B550-F Gaming",
-    "category": "Motherboard",
+    "category": "motherboard",
     "price": "180",
     "status": "In Stock",
     "rating": "4.8"
@@ -84,7 +85,7 @@
     "id": "10",
     "image": "https://example.com/motherboard2.jpg",
     "productName": "MSI MPG Z590 GAMING EDGE WIFI",
-    "category": "Motherboard",
+    "category": "motherboard",
     "price": "250",
     "status": "In Stock",
     "rating": "4.7"
@@ -93,7 +94,7 @@
     "id": "11",
     "image": "https://example.com/motherboard3.jpg",
     "productName": "GIGABYTE B450 AORUS PRO WIFI",
-    "category": "Motherboard",
+    "category": "motherboard",
     "price": "120",
     "status": "Out of Stock",
     "rating": "4.6"
@@ -102,7 +103,7 @@
     "id": "12",
     "image": "https://example.com/motherboard4.jpg",
     "productName": "ASRock B550M PRO4",
-    "category": "Motherboard",
+    "category": "motherboard",
     "price": "110",
     "status": "In Stock",
     "rating": "4.4"
@@ -111,7 +112,7 @@
     "id": "13",
     "image": "https://example.com/ram1.jpg",
     "productName": "Corsair Vengeance LPX 16GB DDR4",
-    "category": "RAM",
+    "category": "ram",
     "price": "80",
     "status": "In Stock",
     "rating": "4.9"
@@ -120,7 +121,7 @@
     "id": "14",
     "image": "https://example.com/ram2.jpg",
     "productName": "G.Skill Ripjaws V Series 32GB DDR4",
-    "category": "RAM",
+    "category": "ram",
     "price": "150",
     "status": "In Stock",
     "rating": "4.8"
@@ -129,7 +130,7 @@
     "id": "15",
     "image": "https://example.com/ram3.jpg",
     "productName": "Crucial Ballistix 8GB DDR4",
-    "category": "RAM",
+    "category": "ram",
     "price": "50",
     "status": "Out of Stock",
     "rating": "4.5"
@@ -138,7 +139,7 @@
     "id": "16",
     "image": "https://example.com/ram4.jpg",
     "productName": "HyperX Fury 16GB DDR4",
-    "category": "RAM",
+    "category": "ram",
     "price": "90",
     "status": "In Stock",
     "rating": "4.7"
@@ -147,7 +148,7 @@
     "id": "17",
     "image": "https://example.com/psu1.jpg",
     "productName": "EVGA SuperNOVA 750 G5",
-    "category": "PSU",
+    "category": "psu",
     "price": "130",
     "status": "In Stock",
     "rating": "4.9"
@@ -156,7 +157,7 @@
     "id": "18",
     "image": "https://example.com/psu2.jpg",
     "productName": "Corsair RM750x",
-    "category": "PSU",
+    "category": "psu",
     "price": "140",
     "status": "In Stock",
     "rating": "4.8"
@@ -165,7 +166,7 @@
     "id": "19",
     "image": "https://example.com/psu3.jpg",
     "productName": "Seasonic FOCUS GX-650",
-    "category": "PSU",
+    "category": "psu",
     "price": "110",
     "status": "Out of Stock",
     "rating": "4.6"
@@ -174,7 +175,7 @@
     "id": "20",
     "image": "https://example.com/psu4.jpg",
     "productName": "Thermaltake Toughpower Grand RGB 850W",
-    "category": "PSU",
+    "category": "psu",
     "price": "160",
     "status": "In Stock",
     "rating": "4.7"
@@ -183,7 +184,7 @@
     "id": "21",
     "image": "https://example.com/storage1.jpg",
     "productName": "Samsung 970 EVO Plus 500GB NVMe SSD",
-    "category": "Storage",
+    "category": "storage",
     "price": "100",
     "status": "In Stock",
     "rating": "4.9"
@@ -192,7 +193,7 @@
     "id": "22",
     "image": "https://example.com/storage2.jpg",
     "productName": "Seagate BarraCuda 2TB HDD",
-    "category": "Storage",
+    "category": "storage",
     "price": "60",
     "status": "In Stock",
     "rating": "4.7"
@@ -201,7 +202,7 @@
     "id": "23",
     "image": "https://example.com/storage3.jpg",
     "productName": "WD Blue 1TB SATA SSD",
-    "category": "Storage",
+    "category": "storage",
     "price": "80",
     "status": "Out of Stock",
     "rating": "4.6"
@@ -210,7 +211,7 @@
     "id": "24",
     "image": "https://example.com/storage4.jpg",
     "productName": "Crucial MX500 1TB SATA SSD",
-    "category": "Storage",
+    "category": "storage",
     "price": "90",
     "status": "In Stock",
     "rating": "4.8"
@@ -219,7 +220,7 @@
     "id": "25",
     "image": "https://example.com/monitor1.jpg",
     "productName": "ASUS ROG Swift PG279Q",
-    "category": "Monitor",
+    "category": "monitor",
     "price": "600",
     "status": "In Stock",
     "rating": "4.7"
@@ -228,7 +229,7 @@
     "id": "26",
     "image": "https://example.com/monitor2.jpg",
     "productName": "LG 27GL850-B",
-    "category": "Monitor",
+    "category": "monitor",
     "price": "450",
     "status": "In Stock",
     "rating": "4.8"
@@ -237,7 +238,7 @@
     "id": "27",
     "image": "https://example.com/monitor3.jpg",
     "productName": "Dell S2719DGF",
-    "category": "Monitor",
+    "category": "monitor",
     "price": "350",
     "status": "Out of Stock",
     "rating": "4.6"
@@ -246,7 +247,7 @@
     "id": "28",
     "image": "https://example.com/monitor4.jpg",
     "productName": "Acer Predator X34",
-    "category": "Monitor",
+    "category": "monitor",
     "price": "800",
     "status": "In Stock",
     "rating": "4.9"
@@ -255,7 +256,7 @@
     "id": "29",
     "image": "https://example.com/mouse1.jpg",
     "productName": "Logitech G Pro Wireless",
-    "category": "Others",
+    "category": "others",
     "price": "150",
     "status": "In Stock",
     "rating": "4.9"
@@ -264,7 +265,7 @@
     "id": "30",
     "image": "https://example.com/Others2.jpg",
     "productName": "Razer DeathAdder V2",
-    "category": "Others",
+    "category": "others",
     "price": "70",
     "status": "In Stock",
     "rating": "4.7"
@@ -273,7 +274,7 @@
     "id": "31",
     "image": "https://example.com/Others3.jpg",
     "productName": "SteelSeries Rival 600",
-    "category": "Others",
+    "category": "others",
     "price": "80",
     "status": "Out of Stock",
     "rating": "4.8"
@@ -282,7 +283,7 @@
     "id": "32",
     "image": "https://example.com/Others4.jpg",
     "productName": "Corsair Harpoon RGB Wireless",
-    "category": "Others",
+    "category": "others",
     "price": "50",
     "status": "In Stock",
     "rating": "4.6"
@@ -291,7 +292,7 @@
     "id": "33",
     "image": "https://example.com/keyboard1.jpg",
     "productName": "Corsair K95 RGB Platinum XT",
-    "category": "Others",
+    "category": "others",
     "price": "200",
     "status": "In Stock",
     "rating": "4.9"
@@ -300,7 +301,7 @@
     "id": "34",
     "image": "https://example.com/Others2.jpg",
     "productName": "Razer Huntsman Elite",
-    "category": "Others",
+    "category": "others",
     "price": "180",
     "status": "In Stock",
     "rating": "4.8"
@@ -309,7 +310,7 @@
     "id": "35",
     "image": "https://example.com/Others3.jpg",
     "productName": "SteelSeries Apex Pro",
-    "category": "Others",
+    "category": "others",
     "price": "170",
     "status": "Out of Stock",
     "rating": "4.7"
@@ -318,7 +319,7 @@
     "id": "36",
     "image": "https://example.com/Others4.jpg",
     "productName": "Logitech G Pro X",
-    "category": "Others",
+    "category": "others",
     "price": "150",
     "status": "In Stock",
     "rating": "4.6"
@@ -327,7 +328,7 @@
     "id": "37",
     "image": "https://example.com/headphone1.jpg",
     "productName": "Bose QuietComfort 35 II",
-    "category": "Others",
+    "category": "others",
     "price": "300",
     "status": "In Stock",
     "rating": "4.8"
@@ -336,7 +337,7 @@
     "id": "38",
     "image": "https://example.com/Others2.jpg",
     "productName": "Sony WH-1000XM4",
-    "category": "Others",
+    "category": "others",
     "price": "350",
     "status": "In Stock",
     "rating": "4.9"
@@ -345,7 +346,7 @@
     "id": "39",
     "image": "https://example.com/Others3.jpg",
     "productName": "SteelSeries Arctis Pro Wireless",
-    "category": "Others",
+    "category": "others",
     "price": "330",
     "status": "Out of Stock",
     "rating": "4.7"
@@ -354,7 +355,7 @@
     "id": "40",
     "image": "https://example.com/Others4.jpg",
     "productName": "Sennheiser HD 660 S",
-    "category": "Others",
+    "category": "others",
     "price": "400",
     "status": "In Stock",
     "rating": "4.8"
@@ -362,3 +363,4 @@
 
 
 ]
+}

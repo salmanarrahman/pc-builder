@@ -3,7 +3,7 @@ import React from "react";
 
 const RootLayout = ({ children }) => {
   return (
-    <div>
+    <div className="mx-auto container">
       <Navbar></Navbar>
       {children}
     </div>

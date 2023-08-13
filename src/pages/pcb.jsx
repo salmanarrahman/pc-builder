@@ -1,16 +1,16 @@
 import RootLayout from '@/Root/RootLayout';
 import React from 'react';
 
-const salman = () => {
+const pcb = () => {
     return (
         <div>
-            <p>SAlman</p>
+            <p>Build your pc</p>
         </div>
     );
 };
 
-export default salman;
+export default pcb;
 
-salman.getLayout = function getLayout(page) {
+pcb.getLayout = function getLayout(page) {
     return <RootLayout>{page}</RootLayout>;
 };
