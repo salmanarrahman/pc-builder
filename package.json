@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev && json-server --watch db.json --port 9999",
     "build": "next build",
-    "json-server":"json-server --watch db.json --port 9999",
+    "json-server":"json-server --watch db.json --port 9999 ",
     "start": "next start",
     "lint": "next lint"
   },

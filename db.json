@@ -2,7 +2,7 @@
   "data":[
   {
     "id": "1",
-    "image": "https://example.com/product1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
     "productName": "Intel i5",
     "category": "cpu",
     "price": "100",
@@ -11,7 +11,7 @@
   },
   {
     "id": "2",
-    "image": "https://example.com/product2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
     "productName": "AMD Ryzen 7",
     "category": "cpu",
     "price": "180",
@@ -20,7 +20,7 @@
   },
   {
     "id": "3",
-    "image": "https://example.com/product3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
     "productName": "AMD Ryzen 6",
     "category": "cpu",
     "price": "800",
@@ -29,7 +29,7 @@
   },
   {
     "id": "4",
-    "image": "https://example.com/product4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
     "productName": "Snapdragon",
     "category": "cpu",
     "price": "120",
@@ -38,7 +38,7 @@
   },
   {
     "id": "5",
-    "image": "https://example.com/gpu1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gt710-2gd3/geforce-gt710-2gd3-1-228x228.jpg",
     "productName": "NVIDIA GeForce GTX 1660 Ti",
     "category": "gpu",
     "price": "300",
@@ -47,7 +47,7 @@
   },
   {
     "id": "6",
-    "image": "https://example.com/gpu2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gt710-2gd3/geforce-gt710-2gd3-1-228x228.jpg",
     "productName": "AMD Radeon RX 6700 XT",
     "category": "gpu",
     "price": "450",
@@ -56,7 +56,7 @@
   },
   {
     "id": "7",
-    "image": "https://example.com/gpu3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gt710-2gd3/geforce-gt710-2gd3-1-228x228.jpg",
     "productName": "NVIDIA GeForce RTX 3070",
     "category": "gpu",
     "price": "600",
@@ -65,7 +65,7 @@
   },
   {
     "id": "8",
-    "image": "https://example.com/gpu4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gt710-2gd3/geforce-gt710-2gd3-1-228x228.jpg",
     "productName": "AMD Radeon RX 6800 XT",
     "category": "gpu",
     "price": "700",
@@ -74,7 +74,7 @@
   },
   {
     "id": "9",
-    "image": "https://example.com/motherboard1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gt710-2gd3/geforce-gt710-2gd3-1-228x228.jpg",
     "productName": "ASUS ROG Strix B550-F Gaming",
     "category": "motherboard",
     "price": "180",
@@ -83,7 +83,7 @@
   },
   {
     "id": "10",
-    "image": "https://example.com/motherboard2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
     "productName": "MSI MPG Z590 GAMING EDGE WIFI",
     "category": "motherboard",
     "price": "250",
@@ -92,7 +92,7 @@
   },
   {
     "id": "11",
-    "image": "https://example.com/motherboard3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
     "productName": "GIGABYTE B450 AORUS PRO WIFI",
     "category": "motherboard",
     "price": "120",
@@ -101,7 +101,7 @@
   },
   {
     "id": "12",
-    "image": "https://example.com/motherboard4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
     "productName": "ASRock B550M PRO4",
     "category": "motherboard",
     "price": "110",
@@ -110,7 +110,7 @@
   },
   {
     "id": "13",
-    "image": "https://example.com/ram1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
     "productName": "Corsair Vengeance LPX 16GB DDR4",
     "category": "ram",
     "price": "80",
@@ -119,7 +119,7 @@
   },
   {
     "id": "14",
-    "image": "https://example.com/ram2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-plus/elite-plus-red-01-228x228.jpg",
     "productName": "G.Skill Ripjaws V Series 32GB DDR4",
     "category": "ram",
     "price": "150",
@@ -128,7 +128,7 @@
   },
   {
     "id": "15",
-    "image": "https://example.com/ram3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-plus/elite-plus-red-01-228x228.jpg",
     "productName": "Crucial Ballistix 8GB DDR4",
     "category": "ram",
     "price": "50",
@@ -137,7 +137,7 @@
   },
   {
     "id": "16",
-    "image": "https://example.com/ram4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-plus/elite-plus-red-01-228x228.jpg",
     "productName": "HyperX Fury 16GB DDR4",
     "category": "ram",
     "price": "90",
@@ -173,7 +173,7 @@
   },
   {
     "id": "20",
-    "image": "https://example.com/psu4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/vulcan-z/vulcan-z-ssd-01-228x228.webp",
     "productName": "Thermaltake Toughpower Grand RGB 850W",
     "category": "psu",
     "price": "160",
@@ -182,7 +182,7 @@
   },
     {
     "id": "21",
-    "image": "https://example.com/storage1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/vulcan-z/vulcan-z-ssd-01-228x228.webp",
     "productName": "Samsung 970 EVO Plus 500GB NVMe SSD",
     "category": "storage",
     "price": "100",
@@ -191,7 +191,7 @@
   },
   {
     "id": "22",
-    "image": "https://example.com/storage2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/vulcan-z/vulcan-z-ssd-01-228x228.webp",
     "productName": "Seagate BarraCuda 2TB HDD",
     "category": "storage",
     "price": "60",
@@ -200,7 +200,7 @@
   },
   {
     "id": "23",
-    "image": "https://example.com/storage3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/vulcan-z/vulcan-z-ssd-01-228x228.webp",
     "productName": "WD Blue 1TB SATA SSD",
     "category": "storage",
     "price": "80",
@@ -209,7 +209,7 @@
   },
   {
     "id": "24",
-    "image": "https://example.com/storage4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/vulcan-z/vulcan-z-ssd-01-228x228.webp",
     "productName": "Crucial MX500 1TB SATA SSD",
     "category": "storage",
     "price": "90",
@@ -218,7 +218,7 @@
   },
   {
     "id": "25",
-    "image": "https://example.com/monitor1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g24c6/g24c6-01-228x228.jpg",
     "productName": "ASUS ROG Swift PG279Q",
     "category": "monitor",
     "price": "600",
@@ -227,7 +227,7 @@
   },
   {
     "id": "26",
-    "image": "https://example.com/monitor2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g24c6/g24c6-01-228x228.jpg",
     "productName": "LG 27GL850-B",
     "category": "monitor",
     "price": "450",
@@ -236,7 +236,7 @@
   },
   {
     "id": "27",
-    "image": "https://example.com/monitor3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g24c6/g24c6-01-228x228.jpg",
     "productName": "Dell S2719DGF",
     "category": "monitor",
     "price": "350",
@@ -245,7 +245,7 @@
   },
   {
     "id": "28",
-    "image": "https://example.com/monitor4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g24c6/g24c6-01-228x228.jpg",
     "productName": "Acer Predator X34",
     "category": "monitor",
     "price": "800",
@@ -254,7 +254,7 @@
   },
    {
     "id": "29",
-    "image": "https://example.com/mouse1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Logitech G Pro Wireless",
     "category": "others",
     "price": "150",
@@ -263,7 +263,7 @@
   },
   {
     "id": "30",
-    "image": "https://example.com/Others2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Razer DeathAdder V2",
     "category": "others",
     "price": "70",
@@ -272,7 +272,7 @@
   },
   {
     "id": "31",
-    "image": "https://example.com/Others3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "SteelSeries Rival 600",
     "category": "others",
     "price": "80",
@@ -281,7 +281,7 @@
   },
   {
     "id": "32",
-    "image": "https://example.com/Others4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Corsair Harpoon RGB Wireless",
     "category": "others",
     "price": "50",
@@ -290,7 +290,7 @@
   },
    {
     "id": "33",
-    "image": "https://example.com/keyboard1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Corsair K95 RGB Platinum XT",
     "category": "others",
     "price": "200",
@@ -299,7 +299,7 @@
   },
   {
     "id": "34",
-    "image": "https://example.com/Others2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Razer Huntsman Elite",
     "category": "others",
     "price": "180",
@@ -308,7 +308,7 @@
   },
   {
     "id": "35",
-    "image": "https://example.com/Others3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "SteelSeries Apex Pro",
     "category": "others",
     "price": "170",
@@ -317,7 +317,7 @@
   },
   {
     "id": "36",
-    "image": "https://example.com/Others4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Logitech G Pro X",
     "category": "others",
     "price": "150",
@@ -326,7 +326,7 @@
   },
     {
     "id": "37",
-    "image": "https://example.com/headphone1.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Bose QuietComfort 35 II",
     "category": "others",
     "price": "300",
@@ -335,7 +335,7 @@
   },
   {
     "id": "38",
-    "image": "https://example.com/Others2.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Sony WH-1000XM4",
     "category": "others",
     "price": "350",
@@ -344,7 +344,7 @@
   },
   {
     "id": "39",
-    "image": "https://example.com/Others3.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "SteelSeries Arctis Pro Wireless",
     "category": "others",
     "price": "330",
@@ -353,7 +353,7 @@
   },
   {
     "id": "40",
-    "image": "https://example.com/Others4.jpg",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/legion-m200/legion-m200-01-228x228.jpg",
     "productName": "Sennheiser HD 660 S",
     "category": "others",
     "price": "400",
